@@ -1,0 +1,32 @@
+
+.main{
+    text-align: center;
+    background-color: #FFCCE1;
+}
+.main h1{
+    text-decoration: underline dashed;
+
+}
+.book{
+
+ display: inline-block;
+    background-color: #E195AB;
+    width: 32%;
+    margin: 5px;
+    border: #a110ff 2px solid;
+
+}
+
+.first, .second {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+.second .add-to-cart {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
